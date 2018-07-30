@@ -1,4 +1,3 @@
-def account_siphon
+def faust
   puts "table flip"
 end
-  

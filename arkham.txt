@@ -1,3 +1,3 @@
 def tentacles
-  puts "behold the awakened one"
+  puts "behold the awakened ones"
 end  
